@@ -19,6 +19,9 @@ power.saving.mode=1
 
 persist.vendor.dpm.feature=11
 
+# Feature flags
+persist.sys.fflag.override.settings_enable_monitor_phantom_procs=false
+
 # Iorapd
 ro.iorapd.enable=false
 iorapd.perfetto.enable=false
