@@ -41,7 +41,8 @@
     },
     {
         "repository": "LineageOS/android_kernel_samsung_gta4xl",
-        "target_path": "kernel/samsung/gta4xl"
+        "target_path": "kernel/samsung/gta4xl",
+        "branch": "lineage-20"
     },
     {
         "repository": "crdroidandroid/android_vendor_samsung_gta4xl-common",
