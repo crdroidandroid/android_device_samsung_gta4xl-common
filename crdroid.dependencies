@@ -46,5 +46,22 @@
     {
         "repository": "crdroidandroid/android_vendor_samsung_gta4xl-common",
         "target_path": "vendor/samsung/gta4xl-common"
+    },
+    {
+        "repository": "crdroidandroid/android_vendor_samsung_gta4xl",
+        "target_path": "vendor/samsung/gta4xl"
+    },
+    {
+        "repository": "crdroidandroid/android_vendor_samsung_gta4xlwifi",
+        "target_path": "vendor/samsung/gta4xlwifi"
+    },
+    {
+        "repository": "crdroidandroid/android_device_samsung_gta4xl",
+        "target_path": "device/samsung/gta4xl"
+    },
+    {
+        "repository": "crdroidandroid/android_device_samsung_gta4xlwifi",
+        "target_path": "device/samsung/gta4xlwifi"
+
     }
 ]
