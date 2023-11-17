@@ -1,0 +1,50 @@
+[
+    {
+        "repository": "crdroidandroid/android_device_samsung_slsi_sepolicy",
+        "target_path": "crdroidandroid/device/samsung_slsi/sepolicy"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung",
+        "target_path": "crdroidandroid/hardware/samsung"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi_libbt",
+        "target_path": "crdroidandroid/hardware/samsung_slsi/libbt"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi-linaro_config",
+        "target_path": "crdroidandroid/hardware/samsung_slsi-linaro/config"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi-linaro_exynos",
+        "target_path": "crdroidandroid/hardware/samsung_slsi-linaro/exynos"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi-linaro_exynos5",
+        "target_path": "crdroidandroid/hardware/samsung_slsi-linaro/exynos5"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi-linaro_graphics",
+        "target_path": "crdroidandroid/hardware/samsung_slsi-linaro/graphics"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi-linaro_interfaces",
+        "target_path": "crdroidandroid/hardware/samsung_slsi-linaro/interfaces"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi-linaro_openmax",
+        "target_path": "crdroidandroid/hardware/samsung_slsi-linaro/openmax"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal",
+        "target_path": "crdroidandroid/hardware/samsung_slsi/scsc_wifibt/wifi_hal"
+    },
+    {
+        "repository": "crdroidandroid/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib",
+        "target_path": "crdroidandroid/hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib"
+    },
+    {
+        "repository": "crdroidandroid/android_kernel_samsung_gta4xl",
+        "target_path": "crdroidandroid/kernel/samsung/gta4xl"
+    }
+]
