@@ -528,6 +528,9 @@ on property:vendor.media.target.version=*
     write /sys/devices/system/cpu/cpu6/cpufreq/scaling_governor "performance"
     write /sys/devices/system/cpu/cpu7/cpufreq/scaling_governor "performance"
 
+    # Disable unwanted services
+    setprop persist.service.unwantedapp.disable 1
+
 on property:vendor.netflix.bsp_rev=*
     setprop ro.netflix.bsp_rev ${vendor.netflix.bsp_rev}
 
