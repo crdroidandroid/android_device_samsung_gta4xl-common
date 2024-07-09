@@ -86,3 +86,6 @@ persist.service.lgospd.enable=0
 persist.service.pcsync.enable=0
 persist.service.mount.playsnd=0
 ro.config.nocheckin=1
+
+# Disable Skia tracing by default
+debug.hwui.skia_tracing_enabled=false
